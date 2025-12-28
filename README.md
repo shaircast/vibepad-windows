@@ -1,1 +1,1 @@
-# VibecodePad Link for Windows
+# Vibepad Link for Windows
