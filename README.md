@@ -29,8 +29,8 @@ Vibepad Link is the desktop-side bridge for Vibepad.
 
 | Platform | Asset | Notes |
 | --- | --- | --- |
-| macOS | `VibepadLink-0.0.5-macOS.dmg` | Notarized DMG with drag-and-drop install |
-| Windows | `VibepadLink.exe` | Portable executable |
+| macOS | `VibepadLink-macOS.dmg` | Notarized DMG with drag-and-drop install; auto-updates in-app from 0.0.6 |
+| Windows | `VibepadLink-Windows.exe` | Portable executable |
 
 Get both from the [Releases page](https://github.com/shaircast/vibepad-link/releases).
 
@@ -38,14 +38,14 @@ Get both from the [Releases page](https://github.com/shaircast/vibepad-link/rele
 
 ### macOS
 
-1. Download `VibepadLink-0.0.5-macOS.dmg` from the latest release.
+1. Download `VibepadLink-macOS.dmg` from the latest release.
 2. Open the DMG and drag `Vibepad Link.app` into `Applications`.
 3. Launch the app from `Applications`.
 4. If prompted, grant `Accessibility` permission in `System Settings > Privacy & Security > Accessibility`.
 
 ### Windows
 
-1. Download `VibepadLink.exe` from the latest release.
+1. Download `VibepadLink-Windows.exe` from the latest release.
 2. Run the executable.
 3. If Windows SmartScreen appears, choose `More info` and then `Run anyway`.
 
