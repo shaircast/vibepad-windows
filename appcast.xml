@@ -6,6 +6,22 @@
     <description>Vibepad Link macOS update feed.</description>
     <language>en</language>
     <item>
+      <title>Vibepad Link 0.2.0</title>
+      <description><![CDATA[
+        <h2>What’s New</h2>
+        <ul>
+          <li>Open a native Settings window from the menu bar.</li>
+          <li>Review Bluetooth, Accessibility, trusted-device, and startup status in one place.</li>
+          <li>Reopen Settings later to change startup behavior or review app information.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 31 Aug 2026 03:53:37 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/shaircast/vibepad-link/releases/download/v0.2.0/VibepadLink-macOS.dmg" length="2418413" sparkle:edSignature="jxX5D5Z2kRyGGkgF7bFB2aLP1zZBu3UYdBDaESg6FxUrBRf8u/5FxFiplzSbblUiagboegvBULEYbKIduQ9PCw==" type="application/x-apple-diskimage"/>
+    </item>
+    <item>
       <title>Vibepad Link 0.1.0</title>
       <pubDate>Sun, 16 Aug 2026 01:04:45 +0900</pubDate>
       <sparkle:version>8</sparkle:version>
